@@ -1,5 +1,5 @@
 ### Hola
-
+[Imagen de portada](perrito.jpg)
 
 <!--
 **Mariasp84/Mariasp84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
