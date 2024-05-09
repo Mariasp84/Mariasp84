@@ -6,9 +6,13 @@ El reto consiste en realizar las operaciones que se detallan a continuación.Tod
 
 ### 1.Crea un repositorio nuevo que se llame retogit.
     –En la pantalla principal de GitHub en el lugar donde aparecen los repositorios pulso new.
-    –Introduzco en nombre del nuevo repositorio, una breve descripción,selecciono private y el readme. 
+    
+    –Introduzco en nombre del nuevo repositorio, una breve descripción,selecciono private y el readme.
+    
     –Pulso Create repositori
+    
 ![Imagen de Portada](https://github.com/Mariasp84/Mariasp84/blob/main/Imagenes/1.png)
+
 ![Imagen de Portada](https://github.com/Mariasp84/Mariasp84/blob/main/Imagenes/2.png)
 
 2.Realiza la subida de la carpeta src de un proyecto en java.
