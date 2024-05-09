@@ -1,6 +1,8 @@
-# Título del Proyecto 
+# RETO GitHub
 
-![Imagen de Portada](perrito.jpg) 
+![Imagen de Portada](![image]![image](https://github.com/Mariasp84/Mariasp84/assets/167620360/1d87598f-b9c5-48ad-9b62-97d88d181ca4)
+
+.jpg) 
 
 ## Descripción Breve descripción del proyecto, objetivos y funcionalidades principales. 
 
