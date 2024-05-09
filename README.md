@@ -1,6 +1,8 @@
-<center> <h1>RETO GITHUB</h1> </center>
+\begin{center}
+RETO GITHU
+\end{center}
 
-<center>![Imagen de Portada](https://github.com/Mariasp84/Mariasp84/blob/main/Imagenes/Git.png)</center>
+\begin{center}[Imagen de Portada](https://github.com/Mariasp84/Mariasp84/blob/main/Imagenes/Git.png)\end{center}
 
 ## Descripción Breve descripción del proyecto, objetivos y funcionalidades principales. 
 
