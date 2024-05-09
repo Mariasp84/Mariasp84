@@ -1,6 +1,6 @@
 # RETO GITHUB
 
-![Imagen de Portada](![image]![image](Git.jpg) 
+![Imagen de Portada](![image]Git.png) 
 
 ## Descripción Breve descripción del proyecto, objetivos y funcionalidades principales. 
 
