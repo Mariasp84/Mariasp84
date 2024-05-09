@@ -75,12 +75,6 @@ El reto consiste en realizar las operaciones que se detallan a continuación.Tod
 
 ### 9.Realiza una publicación de este proceso en tu página principal. Se valorará la calidad de la publicación, la variedad de etiquetas de MarkDown, y como mínimo debe incluirse una imagen.
 
+![Imagen de Portada](https://github.com/Mariasp84/Mariasp84/blob/main/Imagenes/16.png)
 
-
-
-
-## Uso Guía rápida sobre cómo utilizar el proyecto y ejemplos de código. 
-
-## Contribución Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
-
-## Licencia Licencia bajo la cual se distribuye el proyecto.
+![Imagen de Portada](https://github.com/Mariasp84/Mariasp84/blob/main/Imagenes/17.png)
