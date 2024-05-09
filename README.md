@@ -1,6 +1,6 @@
-<center>RETO GITHUT</center>
+RETO GITHUT
 
-<center>[Imagen de Portada](https://github.com/Mariasp84/Mariasp84/blob/main/Imagenes/Git.png)</center>
+<center>![Imagen de Portada](https://github.com/Mariasp84/Mariasp84/blob/main/Imagenes/Git.png)</center>
 
 ## Descripción Breve descripción del proyecto, objetivos y funcionalidades principales. 
 
