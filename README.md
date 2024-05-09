@@ -1,6 +1,6 @@
 # RETO GITHUB
 
-![Imagen de Portada](https://github.com/Mariasp84/Mariasp84/blob/main/Imagenes/1.png)
+![Imagen de Portada](https://github.com/Mariasp84/Mariasp84/blob/main/Imagenes/Git.png)
 
 ## Descripción Breve descripción del proyecto, objetivos y funcionalidades principales. 
 
